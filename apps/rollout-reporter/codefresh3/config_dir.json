@@ -1,0 +1,15 @@
+{
+  "appName": "rollout-reporter",
+  "userGivenName": "rollout-reporter",
+  "destNamespace": "codefresh3",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/rollout-reporter/codefresh3/resources",
+  "srcRepoURL": "https://github.com/amitcodefresh/codefresh_demo.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  },
+  "exclude": "",
+  "include": ""
+}
